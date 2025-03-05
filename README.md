@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Explorer
+### ***An Explorer***
 
 
 # 💻 Tech Stack:
@@ -17,7 +17,6 @@ An Explorer
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 ## Machine Learning and Deep Learning tools
-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
 
@@ -70,14 +69,13 @@ An Explorer
 ## Web Hosting Services.
 - ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
 
-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg)
 
 ## Frequently used Applications
 - ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) 
+
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+
 - ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) 
-- ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=plastic&logo=Jellyfin&logoColor=00A4DC) 
 - ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white
 )
 - ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white
@@ -86,9 +84,9 @@ An Explorer
 ## Operating System 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=ArchLinux)
 ![Hyprland](https://img.shields.io/badge/Hyprland-Active-brightgreen)
 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=ArchLinux)
 ![NixOS](https://img.shields.io/badge/NixOS-7e7e7e?logo=NixOS)
 
 
