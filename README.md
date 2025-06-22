@@ -53,9 +53,10 @@
 - ![NixOS](https://img.shields.io/badge/NixOS-7e7e7e?logo=NixOS) 
 
 ## To do:
-- [ ] qt framework
-- [ ] Physics Engine
-- [ ] 2D/3D Rendering Engine
+- [ ] qt applications
+- [ ] Deep learning library
+- [ ] Deep learning GUI
+- [ ] Reinforcement learning GUI
 
 
 ![](https://github-readme-stats.vercel.app/api?username=vamsi9955&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
