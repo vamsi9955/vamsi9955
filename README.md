@@ -43,6 +43,9 @@
  ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-brightgreen)
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg)
+- ![Unreal Engine]()
+- ![Blender]()
+- ![Neovim]()
 
 ## Operating System Curretly Using <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
