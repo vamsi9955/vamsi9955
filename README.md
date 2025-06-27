@@ -25,11 +25,6 @@
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 
-### Knows these too
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
- ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-brightgreen)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg)
 
 ### Web Development Frameworks & Technologies
 
@@ -43,6 +38,11 @@
 
 - ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=plastic&logo=NixOS&logoColor=white) 
 
+### Tools
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+ ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-brightgreen)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg)
 
 ## Operating System Curretly Using <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
@@ -51,12 +51,6 @@
 ![Hyprland](https://img.shields.io/badge/Hyprland-Active-brightgreen) **on**
 - ![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=ArchLinux)
 - ![NixOS](https://img.shields.io/badge/NixOS-7e7e7e?logo=NixOS) 
-
-## To do:
-- [ ] qt applications
-- [ ] Deep learning library
-- [ ] Deep learning GUI
-- [ ] Reinforcement learning GUI
 
 
 ![](https://github-readme-stats.vercel.app/api?username=vamsi9955&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
